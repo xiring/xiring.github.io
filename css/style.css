@@ -192,7 +192,7 @@ ul.submenu li a.active {
 /* //menu */
 /*-- banner-- */
 .banner-left-side {
-    background: url(../images/b1.jpg);
+    background: url(../images/profile.png);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -223,7 +223,7 @@ ul.submenu li a.active {
     color: #000;
 }
 .banner-right-txt h4 {
-    color: #c3008b;
+    color: #cf5151;
     font-size: 3em;
     font-weight: 700;
     text-transform: uppercase;
@@ -238,7 +238,7 @@ ul.submenu li a.active {
   -moz-transition: 0.5s all;
 }
 .social-icons ul li a span:hover {
-    color: #c3008b;
+    color: #cf5151;
 }
 .social-icons ul li {
     display: inline-block;
@@ -268,7 +268,7 @@ ul.submenu li a.active {
 .number-w3three-info h5 {
     font-size: 27px;
     font-weight: 400;
-    color:#c3008b;
+    color:#cf5151;
 }
 .number-w3three-info h6,.footer-top p span,ul.address-text li b{
     font-size: 18px;
@@ -277,12 +277,12 @@ ul.submenu li a.active {
 	font-family: 'ZCOOL XiaoWei', serif;
 }
 .about-history h2,.get-update-wthree h5 {
-    color: #c3008b;
+    color: #cf5151;
     font-size: 30px;
 }
 .footer-top h4,.blog-two-two h4 a,.my-grid-awards h4{
 font-size:25px;
-color:#c3008b;
+color:#cf5151;
 }
 .about-history p,.footer-top p,.footer-top p a,.blog-two-two p
 ,.blog-date-time ul li a ,.skills-grids-w3layouts p,.get-update-wthree p{
@@ -391,7 +391,7 @@ line-height:25px;}
     letter-spacing: 1px;
     border-radius: 0px;
 }
-.sent-butnn:hover,.view-buttn a:hover{border:1px solid #c3008b;
+.sent-butnn:hover,.view-buttn a:hover{border:1px solid #cf5151;
 opacity:.8;}
 .address_mail_footer_grids iframe {
     width: 100%;
